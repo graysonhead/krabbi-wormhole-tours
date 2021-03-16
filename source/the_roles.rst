@@ -93,7 +93,7 @@ but please ensure you are working on training them ASAP on your nestor character
 .. code-block::
 
     Capacitor Emissions System V
-    Advanced Target Management IV
+    Advanced Target Management II
 
 Alternate Drone Loadout
 ^^^^^^^^^^^^^^^^^^^^^^^
