@@ -74,7 +74,7 @@ A Handy Checklist Before Running Sites
 Step 5: Go murder Sleepers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Warp to site, get cap chain up, drone bunnies use target painters on sleepers, avoid shooting triggers:
+Warp to site, get cap chain up, assist drones to drone bunnies, drone bunnies use target painters on sleepers, avoid shooting triggers:
 
 (Trigger and wave info found here: https://wiki.eveuniversity.org/Wormhole_sites )
 
