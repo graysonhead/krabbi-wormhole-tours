@@ -1,3 +1,5 @@
+.. _WH Selection:
+
 Wormhole Selection and Prep
 ===========================
 
@@ -31,6 +33,19 @@ Not viable:
     Pulsar
     Cataclysmic Variable
 
+.. _Preferred Sites:
+
+Preffered Sites
+---------------
+
+We prefer the following sites:
+
+.. code-block::
+
+    Core Stronghold
+    Core Garrison
+    Core Citadel
+    Core Bastion
 
 
 Preliminary Checks

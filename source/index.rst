@@ -15,6 +15,7 @@ Welcome to Krabbi Wormhole Tours, where our motto is: "No VIP left behind!" [#f1
    the_roles
    wormhole_prep
    running_sites
+   scanning_guide
 
 * :ref:`search`
 
