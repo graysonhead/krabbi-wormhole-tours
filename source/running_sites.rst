@@ -58,18 +58,6 @@ Everyone must set their drones to passive, otherwise triggers will be killed out
 
     Seriously, everyone needs to set their drones to passive.
 
-A Handy Checklist Before Running Sites
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. code-block:: Text
-
-    Assign two Grappler Nestors
-    Assign one to two smartbomb Nestors
-    Undock, test cap chain
-    Call Scrams up, attempt fleet warp (no one should leave)
-    Tell everyone to set their drones to passive
-    Ensure Eos has at least 1.5k Command burst charges and an MTU
-
 
 Step 5: Go Murder Sleepers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -82,3 +70,29 @@ If PVP occurs, get scram chain up ASAP
 
 Once the last wave of each site is dead, target paint the ``Uncloaked Transmission Relay`` to trigger the drifter
 response battleship spawn. At this point all ships should approach the drifter and ensure at least two Nestors heavy scramble and Grappler it.
+
+Checklists
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Before Running First Site
+*************************
+
+.. code-block:: Text
+
+    Assign two Grappler Nestors
+    Assign one to two smartbomb Nestors
+    Undock, test cap chain
+    Call Scrams up, attempt fleet warp (no one should leave)
+    Tell everyone to set their drones to passive
+    Ensure Eos has at least 1.5k Command burst charges and an MTU
+
+Before Leaving Each Site
+************************
+
+.. code-block:: Text
+
+    Wait for All Wrecks to get Pulled by MTU
+    Scoop Loot
+    Scoop MTU
+    Drones In
+    Scrams Off
