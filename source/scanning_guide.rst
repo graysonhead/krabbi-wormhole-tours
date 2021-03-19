@@ -33,6 +33,11 @@ The criteria for what holes we daytrip in is contained in :ref:`WH Selection`. H
 less of a science. Occasionally, direct connects to C5s and C6s will be unavailable and you will need to probe out some
 C3s to find them, when to fully probe out C3s vs just moving to the next system is going to depend on a lot of factors.
 
+.. note::
+
+    Always jump into C3s so that they can be added to the map, additionally check the C3 to see if it has a C5/6 static.
+    If it does, definitely probe that chain.
+
 Entering Sigs Quickly
 ---------------------
 
