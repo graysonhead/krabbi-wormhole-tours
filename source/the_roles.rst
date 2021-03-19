@@ -48,7 +48,8 @@ The following is the standard nestor fit:
 
     Warrior II x5
     Hammerhead II x5
-    Praetor II x10
+    Praetor II x5
+    Ogre II x5
     Curator II x7
 
     Tracking Speed Script x2
@@ -98,8 +99,13 @@ but please ensure you are working on training them ASAP on your nestor character
 Alternate Drone Loadout
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-If desired, the drone layout can be changed to include Geckos, which have a higher overall damage output in combination
-with medium and light drones. Use the above standard fit, but with this drone loadout:
+.. note::
+
+    If you have good drone skills, and Ammar + Gallente drone specialization IV, your overall damage output will be
+    20% higher with the standard loadout.
+
+If desired, the drone layout can be changed to include Geckos, which have the same damage out put as Ogre IIs in
+combination with medium and light drones. Use the above standard fit, but with this drone loadout:
 
 .. code-block::
 

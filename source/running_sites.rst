@@ -71,7 +71,7 @@ A Handy Checklist Before Running Sites
     Ensure Eos has at least 1.5k Command burst charges and an MTU
 
 
-Step 5: Go murder Sleepers
+Step 5: Go Murder Sleepers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Warp to site, get cap chain up, assist drones to drone bunnies, drone bunnies use target painters on sleepers, avoid shooting triggers:
